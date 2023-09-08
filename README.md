@@ -26,7 +26,7 @@
         </ul>
 
 <h3 align="center"></h3>
-<h3 > Lenguajes de programación:🖥️</h3>
+<h3 align="center"> Lenguajes de programación:🖥️</h3>
 <div style="display: flex; ">
     <div align="center" style="width: 500px; height: 150x;">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -64,7 +64,5 @@
         <a href="https://fb.com/marisolramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marisolramos" height="30" width="40" />
         </a>
     </p>
- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 
