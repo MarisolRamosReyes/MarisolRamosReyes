@@ -51,6 +51,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
         </a> 
     </div>
+<center>
     <div>
     <img align="center" style="width: 400px; height: 100x;" src="https://github-readme-stats.vercel.app/api/top-langs?username=marisolramosreyes&show_icons=true&locale=en&layout=compact" alt="marisolramosreyes" />
     </div>
@@ -59,6 +60,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marisolramosreyes&show_icons=true&locale=en" alt="marisolramosreyes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marisolramosreyes&" alt="marisolramosreyes" /></p>
+</center>
 
 
 
