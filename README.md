@@ -1,3 +1,4 @@
+<center>
 <div style="text-align: center;">
 <h1 align="center">Perfil de Estudiante de Informática 👩🏽‍💻</h1>
 <p align="center">¡Hola! Soy Marisol, una estudiante de la carrera de Ingeniería Informática.</p>
@@ -51,15 +52,15 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
         </a> 
     </div>
-        <center><div>
+        <div>
             <img align="center" style="width: 400px; height: 100x;" src="https://github-readme-stats.vercel.app/api/top-langs?username=marisolramosreyes&show_icons=true&locale=en&layout=compact" alt="marisolramosreyes" />
-    </div></center>
+    </div>
 </div>
 
-<center><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marisolramosreyes&show_icons=true&locale=en" alt="marisolramosreyes" /></p></center>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marisolramosreyes&show_icons=true&locale=en" alt="marisolramosreyes" /></p>
 
-<center><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marisolramosreyes&" alt="marisolramosreyes" /></p></center>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marisolramosreyes&" alt="marisolramosreyes" /></p>
+</center>
 
 
 
