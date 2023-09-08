@@ -52,17 +52,13 @@
         </a> 
     </div>
     <div>
-    <img style="width: 500px; height: 150x;" src="https://github-readme-stats.vercel.app/api/top-langs?username=marisolramosreyes&show_icons=true&locale=en&layout=compact" alt="marisolramosreyes" />
+    <img style="width: 400px; height: 100x;" src="https://github-readme-stats.vercel.app/api/top-langs?username=marisolramosreyes&show_icons=true&locale=en&layout=compact" alt="marisolramosreyes" />
     </div>
 </div>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=marisolramosreyes&show_icons=true&locale=en" alt="marisolramosreyes" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marisolramosreyes&" alt="marisolramosreyes" /></p>
-<h3 >Redes Sociales:</h3>
-    <p>
-        <a href="https://fb.com/marisolramos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marisolramos" height="30" width="40" />
-        </a>
-    </p>
+
 
 
